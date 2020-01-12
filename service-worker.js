@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NotaryDocumentsManager/precache-manifest.b9c82ea3b4a7a566a2b8327bc510c663.js"
+  "/NotaryDocumentsManager/precache-manifest.44ea6fa33cbbdbf20f7e8ffc1c1c7a94.js"
 );
 
 self.addEventListener('message', (event) => {
